@@ -4,8 +4,8 @@
 
 # Oracle ONE + alura Latam
 
-![capa](\assets\images\challenge-grafico.png)
-![capa](\assets\images\capa.png)
+![capa](/assets/images/challenge-grafico.png)
+![capa](/assets/images/capa.png)
 
 ## Curso Java
 ### Criando a sua primeira aplicação
